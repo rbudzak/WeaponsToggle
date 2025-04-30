@@ -1,9 +1,9 @@
 # WeaponsToggle
 Destiny 2 Weapons Toggle AutoHotkey Script
 
-This sets up two htokeys: One that toggles between kinetic and energy weapons, and another that switched between the power weapon and the previous weapon.
+This sets up two htokeys: One that toggles between kinetic and energy weapons, and another that switches between the power weapon and the previous weapon.
 
-As currently set up, it assumes you're using the standard keybindings for the three slots: 1 for kinetic, 2 for enery, 3 for power. It binds Numpad / and Numpad * to Kinetic/Energy and Power/Previous respectively. Additionally, it recognizes if you've pressed one of the three keybindings and keeps track of the current and previous weapons chosen so it knows which to switch to.
+As currently set up, it assumes you're using the standard keybindings for the three slots: 1 for kinetic, 2 for energy, 3 for power. It binds Numpad / and Numpad * to Kinetic/Energy and Power/Previous respectively. Additionally, it recognizes if you've pressed one of the three keybindings and keeps track of the current and previous weapons chosen so it knows which to switch to.
 
 I use this to assign two buttons on my mouse to these toggles, because I was tired of accidnetally switching to my (often empty) Power weapon when I really needed my Kinetic or Energy.
 
