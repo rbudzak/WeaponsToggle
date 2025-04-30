@@ -12,4 +12,4 @@ You've pressed "1" to switch to your Kinetic weapon. Pressing Numpad / will swit
 
 In this way, no matter which weapon you have equipped, you will have two buttons to get you to each of the two other weapons, meaning you don't have to "double click" either to get to what you need.
 
-I'm sure some refactoring could be done here, and I have at least one improvement alreeady in mind, but it will have to wait for another day. 
+I'm sure some refactoring could be done here, and I have at least one improvement already in mind, but it will have to wait for another day. 
